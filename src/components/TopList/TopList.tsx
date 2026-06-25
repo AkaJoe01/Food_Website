@@ -4,7 +4,7 @@ const FoodDate = [
         rating: "⭐⭐⭐⭐⭐",
         price: "$10.99",
         name: "Bread",
-        desc: "hjfkghfgvh,bjhjhbjjnjhjnnjjnnjjnjnjjjjjnmxjbkscjbscjsc",
+        desc: "Nutrient-packed, rustic, and hearty.",
     },
 
     {
@@ -12,7 +12,7 @@ const FoodDate = [
         rating: "⭐⭐⭐⭐⭐",
         price: "$10.99",
         name: "Egg Veges",
-        desc: "s,dbcuishecduikej.snci/oklwalskmdcipjalskhbcikhj.ajls/MIcjnkhnds.nklm",
+        desc: " A healthy, savory mix of garden greens and eggs.",
     },
 
     {
@@ -20,7 +20,7 @@ const FoodDate = [
         rating: "⭐⭐⭐⭐⭐",
         price: "$10.99",
         name: "Egg",
-        desc: "hjewbfuickjejsniklrgtmtrsklgfmblkamerzdfioklnvjdfkMvklmdf. khvxndsk.ufcvxjncx,m ",
+        desc: "Energizing, fresh, and essential for morning fuel.",
     },
 ]
 
