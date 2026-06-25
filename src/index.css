@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #f97316;
+    --font-family-sans: 'Poppins', sans-serif;
+}
+
+@layer components {
+    .primary-btn {
+        @apply bg-primary text-white font-bold px-4 py-2 rounded-full;
+    }
+}
+
+.secondary-btn {
+    @apply bg-gray-300 text-black font-bold px-4 py-2 rounded-full;
+}
